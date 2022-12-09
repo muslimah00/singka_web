@@ -23,7 +23,7 @@
 <section class="header">
 
    <nav>
-      <img src="images/logo-singka" alt="alt">
+      <!-- <img src="images/logo-singka.png" alt="alt"> -->
       <a href="home.php" class="logo">singka tour & travel.</a>
    </nav>
 
@@ -246,8 +246,8 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +62877-7721-4369 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +62853-8621-4228 </a>
+         <a href="https://wa.me/6287777214369?text=Halo dengan singka tour travel?"> <i class="fas fa-phone"></i> +62877-7721-4369 </a>
+         <a href="https://wa.me/6287777214369?text=Halo dengan singka tour travel?""> <i class="fas fa-phone"></i> +62853-8621-4228 </a>
          <a href="#"> <i class="fas fa-envelope"></i> singkatour@gmail.com </a>
          <a href="#"> <i class="fas fa-map"></i> Indonesia, Singkawang 79151 </a>
       </div>
