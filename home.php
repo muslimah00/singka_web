@@ -22,7 +22,10 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">singka tour & travel.</a>
+   <nav>
+      <img src="images/logo-singka" alt="alt">
+      <a href="home.php" class="logo">singka tour & travel.</a>
+   </nav>
 
    <nav class="navbar">
       <a href="home.php">home</a>
