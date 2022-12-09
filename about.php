@@ -64,7 +64,7 @@
          </div>
          <div class="icons">
             <i class="fas fa-headset"></i>
-            <span>24/7 guide service</span>
+            <span>24/7 guide</span>
          </div>
       </div>
    </div>
@@ -223,7 +223,7 @@
 
    </div>
 
-   <div class="credit"> created by <span>imus</span></div>
+   <!-- <div class="credit"> created by <span>imus</span></div> -->
 
 </section>
 

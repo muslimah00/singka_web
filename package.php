@@ -244,7 +244,7 @@
 
    </div>
 
-   <div class="credit"> created by <span>imus</span></div>
+   <!-- <div class="credit"> created by <span>imus</span></div> -->
 
 </section>
 
