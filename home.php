@@ -92,33 +92,33 @@
    <div class="box-container">
 
       <div class="box">
-         <img src="images/icon-1.png" alt="">
-         <h3>adventure</h3>
+         <img src="images/icon/icon-bus.png" alt="">
+         <h3>bus</h3>
       </div>
 
       <div class="box">
-         <img src="images/icon-2.png" alt="">
+         <img src="images/icon/icon-peta.png" alt="">
          <h3>tour guide</h3>
       </div>
 
       <div class="box">
-         <img src="images/icon-3.png" alt="">
-         <h3>trekking</h3>
+         <img src="images/icon/icon-mobil.png" alt="">
+         <h3>rent car</h3>
       </div>
 
       <div class="box">
-         <img src="images/icon-4.png" alt="">
-         <h3>camp fire</h3>
+         <img src="images/icon/icon-driver.png" alt="">
+         <h3>driver</h3>
       </div>
 
       <div class="box">
-         <img src="images/icon-5.png" alt="">
-         <h3>off road</h3>
+         <img src="images/icon/icon-kuliner.png" alt="">
+         <h3>culinary</h3>
       </div>
 
       <div class="box">
-         <img src="images/icon-6.png" alt="">
-         <h3>camping</h3>
+         <img src="images/icon/icon-hotel.png" alt="">
+         <h3>hotel</h3>
       </div>
 
    </div>
@@ -132,7 +132,7 @@
 <section class="home-about">
 
    <div class="image">
-      <img src="images/about-img.jpg" alt="">
+      <img src="images/logo-singka.png" alt="">
    </div>
 
    <div class="content">
@@ -155,7 +155,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images/package/img-1.jpg" alt="">
          </div>
          <div class="content">
             <h3>adventure & tour</h3>
@@ -166,7 +166,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/package/img-2.jpg" alt="">
          </div>
          <div class="content">
             <h3>adventure & tour</h3>
@@ -177,7 +177,7 @@
       
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/package/img-3.jpg" alt="">
          </div>
          <div class="content">
             <h3>adventure & tour</h3>
