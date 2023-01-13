@@ -117,10 +117,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/package/img-7.jpg" alt="">
+            <img src="images/package/kl.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Kuala Lumpur</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -128,10 +128,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/package/img-8.jpg" alt="">
+            <img src="images/package/phuket.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Phuket</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -139,10 +139,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/package/img-9.jpg" alt="">
+            <img src="images/package/bangkok.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Bangkok</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
