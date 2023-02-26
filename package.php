@@ -66,7 +66,7 @@
          </div>
          <div class="content">
             <h3>Bali</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <p>Transportasi selama tour, Hotel Boss Legian (4 Malam), Makan (4 pagi, 3 siang, 4 malam), Tiket masuk tempat wisata, Toll & parkir, Air mineral, Guide.</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -77,7 +77,7 @@
          </div>
          <div class="content">
             <h3>Bandung</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <p>Transportasi Tour, hotel 4 malam di daily inn, makan 4 pagi, 3 siang, 4 malam, tiket masuk wisata, Toll & parkir, air mineral perhari, guide indonesia</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>

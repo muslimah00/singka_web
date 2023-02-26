@@ -1,6 +1,6 @@
 <?php
 
-   $connection = mysqli_connect('localhost','root','','book_db');
+   // $connection = mysqli_connect('localhost','root','','book_db');
 
    if(isset($_POST['send'])){
       $name = $_POST['name'];
@@ -15,8 +15,16 @@
       //$request = " insert into book_form(name, email, phone, address, location, guests, arrivals, leaving) values('$name','$email','$phone','$address','$location','$guests','$arrivals','$leaving') ";
       //mysqli_query($connection, $request);
 
+      $text = "Name:%20$name%0a";
+      $text .= "Email:%20$email%0a";
+      $text .= "Address:%20$address%0a";
+      $text .= "Location:%20$location%0a";
+      $text .= "Guests:%20$guest%0a";
+      $text .= "Arrivels:%20$arrivals%0a";
+      $text .= "Leaving:%20$leaving";
+
       //header('location:book.php');
-      header("location:https://api.whatsapp.com/send?phone=087777214369&text=Name:%20$name%20%0DEmail:%20$email%20%0DAddress:%20$address%20%0DLocation:%20$location%20%0DGuests:%20$guests%20%0DArrivels:%20$arrivals%20%0DLeaving:%20$leaving");
+      header("location:https://api.whatsapp.com/send?phone=087777214369&text=$text");
 
    }else{
       echo 'something went wrong please try again!';
